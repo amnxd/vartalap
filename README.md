@@ -3,6 +3,9 @@
 Vartalap is a modern, real-time chat application built with Flutter and a Rust backend.
 It is designed for smooth conversations, fast rendering, and a polished dark UI with practical collaboration features.
 
+Website : https://chat.malevolent.in
+Mobile Application : 
+
 ## Product Overview
 
 Vartalap focuses on a clean messaging experience with responsive interaction design.
